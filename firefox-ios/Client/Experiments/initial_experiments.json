@@ -11,7 +11,7 @@
       "channel": "release",
       "userFacingName": "default shortcuts feature2",
       "userFacingDescription": "sponsored shortcut feature",
-      "isEnrollmentPaused": false,
+      "isEnrollmentPaused": true,
       "isRollout": false,
       "bucketConfig": {
         "randomizationUnit": "nimbus_id",
